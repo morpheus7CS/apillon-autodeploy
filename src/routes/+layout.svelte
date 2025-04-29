@@ -4,4 +4,4 @@
 	let { children } = $props();
 </script>
 
-{@render children()}
+<div class="prose prose-xl px-10 py-20">{@render children()}</div>
